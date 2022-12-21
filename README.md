@@ -11,8 +11,8 @@ Gamify the experience of searching for property to buy/rent
 
 ## Features
 - OAuth profile
-- [Gamified property search] (https://github.com/Onex101/home-me/issues/2)
-- Property filter
+- Gamified property search #2
+- Property filter #10
 - Advertise properties for rent/sale
 - Save a fave
 - Property details (Location, size of property etc)
