@@ -10,7 +10,7 @@ A platform to:
 Gamify the experience of searching for property to buy/rent
 
 ## Features
-- Authenticated profile
+- OAuth profile
 - Gamified property search (with custom filters)
 - Advertise properties for rent/sale
 - Save a fave
