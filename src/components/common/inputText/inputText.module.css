@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  gap: .2rem;
+  flex-direction: column;
+  width: 100%;
+}
+
+.input {
+  font-size: var(--font-size-sm);
+  border: 1px solid grey;
+  padding: 0.35rem;
+  text-align: left;
+  border-radius: var(--input-border-radius);
+}
+
+.label {
+  font-size: var(--font-size-md);
+}
+
+.input:focus,
+.input:focus-visible {
+  box-shadow: 0px 0px 52px -19px rgba(0, 0, 0, 0.92);
+  -webkit-box-shadow: 0px 0px 52px -19px rgba(0, 0, 0, 0.92);
+  -moz-box-shadow: 0px 0px 52px -19px rgba(0, 0, 0, 0.92);
+  outline: 0;
+}

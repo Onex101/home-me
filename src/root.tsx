@@ -11,6 +11,8 @@ import {
   Title,
 } from "solid-start";
 import { ErrorBoundary } from "solid-start/error-boundary";
+import PropertyFilter from "./components/properyFilter";
+import './root.css';
 
 export default function Root() {
   return (
@@ -23,6 +25,8 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
+      <PropertyFilter />
+
             <Routes>
               <FileRoutes />
             </Routes>
