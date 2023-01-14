@@ -1,0 +1,24 @@
+:root {
+  /* Font */
+  --font-size-xs: 1rem;
+  --font-size-sm: 1.25rem;
+  --font-size-md: 1.5rem;
+  --font-size-lg: 1.75rem;
+  --font-size-xl: 2rem;
+
+  /* Primary */
+
+  /* Secondary */
+
+  /* Borders */
+  --input-border-radius: 2px;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
